@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Buoy Sophit and I'm a Computer Science And Engineering, from Royal University Of Phnom Penh(RUPP)</h2>
+<h2 align="left">Hello world! My name is Buoy Sophit and I'm a Computer Science And Engineering, from Royal University Of Phnom Penh(RUPP)</h2>
 
 ###
 
