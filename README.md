@@ -5,8 +5,8 @@
 ---
 
 <!-- GitHub Stats & Top Languages -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=buoysophit&show_icons=true&theme=dracula&hide_title=true&count_private=true" height="180" alt="GitHub Stats" />
+<!--<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=buoysophit&show_icons=true&theme=dracula&hide_title=true&count_private=true" height="180" alt="GitHub Stats" /> -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=buoysophit&layout=compact&card_width=320&theme=dracula" height="180" alt="Top Languages" />
 </p>
 
