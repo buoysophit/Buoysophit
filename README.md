@@ -16,20 +16,6 @@
 
 ---
 
-<!-- Connect Section -->
-<h2 align="center">🌐 Connect with me</h2>
-<p align="center">
-  <a href="https://www.youtube.com/@phitterparker" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
-  </a>
-  
-  <a href="mailto:bouysophit@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
-  <a href="https://www.linkedin.com/in/buoy-sophit-06111a2b4/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-</p>
 
 ---
 
