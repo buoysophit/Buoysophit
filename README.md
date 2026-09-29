@@ -25,23 +25,10 @@ I am learning web development and software engineering through personal projects
   <img src="https://img.shields.io/badge/Git-f05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
 </div>
 
-## GitHub
+## GitHub activity
 
 <div align="center">
-  <a href="https://github.com/buoysophit">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=buoysophit&show_icons=true&include_all_commits=true&hide_border=true&border_radius=0&theme=github_dark_dimmed" />
-      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=buoysophit&show_icons=true&include_all_commits=true&hide_border=true&border_radius=0&theme=default" />
-      <img height="170" src="https://github-readme-stats.vercel.app/api?username=buoysophit&show_icons=true&include_all_commits=true&hide_border=true&border_radius=0&theme=default" alt="Buoy's GitHub statistics" />
-    </picture>
-  </a>
-  <a href="https://github.com/buoysophit">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=buoysophit&layout=compact&hide_border=true&border_radius=0&theme=github_dark_dimmed" />
-      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=buoysophit&layout=compact&hide_border=true&border_radius=0&theme=default" />
-      <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=buoysophit&layout=compact&hide_border=true&border_radius=0&theme=default" alt="Buoy's most used languages" />
-    </picture>
-  </a>
+  <img src="./github-metrics.svg" alt="GitHub activity metrics" width="100%" />
 </div>
 
 <br />
