@@ -35,6 +35,14 @@ Computer Science &amp; Engineering student at the **Royal University of Phnom Pe
   <img src="https://img.shields.io/badge/CSS3-black?style=for-the-badge&logo=css3&logoColor=1572b6" alt="CSS3" />
   <img src="https://img.shields.io/badge/C%23-black?style=for-the-badge&logo=csharp&logoColor=512bd4" alt="C Sharp" />
   <img src="https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git&logoColor=f05032" alt="Git" />
+  <img src="https://img.shields.io/badge/Rust-black?style=for-the-badge&logo=rust&logoColor=white" alt="Rust" />
+  <img src="https://img.shields.io/badge/Arch_Linux-black?style=for-the-badge&logo=archlinux&logoColor=1793d1" alt="Arch Linux" />
+  <img src="https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=linux&logoColor=white" alt="Linux" />
+  <img src="https://img.shields.io/badge/Flutter-black?style=for-the-badge&logo=flutter&logoColor=54c5f8" alt="Flutter" />
+  <img src="https://img.shields.io/badge/Supabase-black?style=for-the-badge&logo=supabase&logoColor=3ecf8e" alt="Supabase" />
+  <img src="https://img.shields.io/badge/MySQL-black?style=for-the-badge&logo=mysql&logoColor=4479a1" alt="MySQL" />
+  <img src="https://img.shields.io/badge/SQL_Server-black?style=for-the-badge&logo=microsoftsqlserver&logoColor=cc2927" alt="SQL Server" />
+  <img src="https://img.shields.io/badge/AnyDesk-black?style=for-the-badge&logo=anydesk&logoColor=ef443b" alt="AnyDesk" />
 </p>
 
 ### GitHub activity
