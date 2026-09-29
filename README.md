@@ -1,4 +1,4 @@
-<h2>Hi, I'm Buoy Sophit</h2>
+<h2>Hi, I'm Buoy Sophit <img src="./smiling-cat-creepy-cat.gif" width="42" height="42" alt="Smiling cat" /></h2>
 
 <a href="https://github.com/buoysophit">
   <img align="left" alt="GitHub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/github.svg" />
