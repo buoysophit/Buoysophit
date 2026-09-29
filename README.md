@@ -45,12 +45,6 @@ Computer Science &amp; Engineering student at the **Royal University of Phnom Pe
   <img src="https://img.shields.io/badge/AnyDesk-black?style=for-the-badge&logo=anydesk&logoColor=ef443b" alt="AnyDesk" />
 </p>
 
-### GitHub activity
-
-<p>
-  <img src="./github-metrics.svg" alt="GitHub activity metrics" width="100%" />
-</p>
-
 <p>
   <img src="https://raw.githubusercontent.com/buoysophit/Buoysophit/output/snake.svg" alt="Snake animation of GitHub contributions" width="100%" />
 </p>
