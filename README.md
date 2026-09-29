@@ -20,7 +20,7 @@ Computer Science &amp; Engineering student at the **Royal University of Phnom Pe
 
 ### A little more about me
 
-<img align="right" src="./cat-cats.gif" width="180" height="180" alt="Cat coding animation" />
+<img align="right" src="./cat-cats.gif" width="240" height="240" alt="Cat coding animation" />
 
 - I am currently learning web development and software engineering.
 - I work with JavaScript, React, HTML, CSS, C#, and Git.
