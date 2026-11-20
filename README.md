@@ -44,7 +44,9 @@ Computer Science &amp; Engineering student at the **Royal University of Phnom Pe
   <img src="https://img.shields.io/badge/SQL_Server-black?style=for-the-badge&logo=microsoftsqlserver&logoColor=cc2927" alt="SQL Server" />
   <img src="https://img.shields.io/badge/AnyDesk-black?style=for-the-badge&logo=anydesk&logoColor=ef443b" alt="AnyDesk" />
 </p>
-
+<p>
+  <img src="./github-metrics.svg" alt="GitHub Metrics" />
+</p>
 <p>
   <img src="https://raw.githubusercontent.com/buoysophit/Buoysophit/output/snake.svg" alt="Snake animation of GitHub contributions" width="100%" />
 </p>
